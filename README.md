@@ -2,6 +2,7 @@
 
 ### About Me🙂
 
-一个面向必应的半栈开发者  
+摇滚原神重度依赖  
+木柜子乐队重度依赖  
 EMail: Tomori@miomoe.cn  
 Bilibili：https://space.bilibili.com/435502585
