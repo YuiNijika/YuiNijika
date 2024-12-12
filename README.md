@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu)  
+![Star](https://github-readme-stats.vercel.app/api?username=ShuShuicu)
 
 ### About Me🙂
 
@@ -9,5 +10,3 @@
 
 EMail: Tomori@miomoe.cn  
 Bilibili：https://space.bilibili.com/435502585
-
-![Star](https://github-readme-stats.vercel.app/api?username=ShuShuicu)
