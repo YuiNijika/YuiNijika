@@ -8,3 +8,5 @@
 
 EMail: Tomori@miomoe.cn  
 Bilibili：https://space.bilibili.com/435502585
+
+![语言统计](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu)
