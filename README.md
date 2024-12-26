@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu)  
-![Star](https://github-readme-stats.vercel.app/api?username=ShuShuicu)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&layout=compact)  
+![Star](https://github-readme-stats.vercel.app/api?username=ShuShuicu&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### About Me🙂
 
