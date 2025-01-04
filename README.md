@@ -7,5 +7,9 @@
 木柜子乐队重度依赖  
 摇滚界的原神重度依赖  
 
+---
+
+正在学习Vue、Nuxt、JavaScript(TypeScript)
+
 EMail: Tomori@miomoe.cn  
 Bilibili：https://space.bilibili.com/435502585
