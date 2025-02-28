@@ -4,10 +4,10 @@
  > 一个互联网*民工/开发者*，~~啥都会点就是不精通~~
 
 ### 技术栈
- - PHP
- - Vue
- - Nuxt
- - HTML
+ ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+ ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
+ ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
+ ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
 ---
 
