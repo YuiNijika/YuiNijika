@@ -3,6 +3,7 @@
 ## About Me🙂
  > 一个互联网*民工/开发者*，~~啥都会点就是不精通~~
 
+[![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
 ---
 
 ### 技术栈
@@ -16,6 +17,7 @@
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg)
  ![WebStorm](https://img.shields.io/badge/WebStorm-blue)
  ![PhpStorm](https://img.shields.io/badge/PhpStorm-darkorchid)
+ ![HBuilder X](https://img.shields.io/badge/HBuilder%20X-008000.svg)
  
 ---
 
