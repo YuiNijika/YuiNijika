@@ -3,9 +3,6 @@
 ## About Me🙂
  > 一个互联网*民工/开发者*，~~啥都会点就是不精通~~
 
-E-Mail: Tomori@miomoe.cn  
-Bilibili：https://space.bilibili.com/435502585
-
 ---
 
 ### 技术栈
@@ -14,7 +11,7 @@ Bilibili：https://space.bilibili.com/435502585
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
-#### IDE
+### IDE
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg)
  ![WebStorm](https://img.shields.io/badge/WebStorm-blue)
