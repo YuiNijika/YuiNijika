@@ -1,18 +1,18 @@
-# 你好我是鼠子
+# Hello 🤘
 
-## About Me🙂
- > 一个互联网*民工/开发者*；~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
+## About Me 😁
+ > 你好我是鼠子，一个互联网*民工/开发者*；~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
 ---
 
-### 技术栈
+### 技术栈 🧑‍💻
  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
-### IDE
+### IDE 💻
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg)
  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg)
  ![WebStorm](https://img.shields.io/badge/WebStorm-blue)
