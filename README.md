@@ -9,6 +9,7 @@
 ### 技术栈 🧑‍💻
  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
+ ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 
