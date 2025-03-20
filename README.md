@@ -15,6 +15,7 @@
  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+ ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
 
 ### IDE 💻
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg)
@@ -22,9 +23,19 @@
  ![WebStorm](https://img.shields.io/badge/WebStorm-blue)
  ![PhpStorm](https://img.shields.io/badge/PhpStorm-darkorchid)
  ![HBuilder X](https://img.shields.io/badge/HBuilder%20X-008000.svg)
+
+ ### 组件库 ❤️‍🔥
+ ![MDUI](https://img.shields.io/badge/MDUI-HTML-e34f26)
+ ![Parsedown](https://img.shields.io/badge/Parsedown-PHP-darkorchid)
+ ![Pywebview](https://img.shields.io/badge/Pywebview-Python-3670A0)
+ ![Vuetify](https://img.shields.io/badge/Vuetify-Vue-blue)
+ ![Antd](https://img.shields.io/badge/Ant%20Design-Vue-blue)
+ ![Arco](https://img.shields.io/badge/Arco%20Design-Vue-blue)
  
 ---
 
 ### 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ShuShuicu&row=1)
