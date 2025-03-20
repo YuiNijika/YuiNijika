@@ -1,7 +1,7 @@
 # Hello 🤘
 
 ## About Me 😁
- > 你好我是鼠子，一个互联网*民工/开发者*；~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
+ > 你好我是鼠子，业余写代码*；~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
 ---
