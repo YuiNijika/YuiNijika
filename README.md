@@ -1,9 +1,12 @@
 # Hello 🤘
 
 ## About Me 😁
- > 你好我是鼠子，业余写代码*；~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
+ ![BocchiRock](https://i0.wp.com/i0.hdslb.com/bfs/garb/272e96dc23a931599da92a6c9cf896bcc5cd95c4.png)
+ > 你好我是鼠子  
+ > *业余时间写写代码*，~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~
 
-[![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
+ [![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
+
 ---
 
 ### 技术栈 🧑‍💻
