@@ -9,7 +9,8 @@
 
 ---
 
-### 技术栈 🧑‍💻
+## 技术栈 🧑‍💻
+### 语言 🪧
  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
@@ -34,7 +35,7 @@
  
 ---
 
-### 今年汇总 ✨
+## 今年汇总 ✨
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite" />
 
