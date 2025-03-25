@@ -16,7 +16,7 @@
  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
 ### IDE 💻
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg)
