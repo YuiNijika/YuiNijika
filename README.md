@@ -16,6 +16,7 @@
  ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
  ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
  ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
+ ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
 
