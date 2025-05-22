@@ -1,46 +1,48 @@
 # Hello 🤘
 
 ## About Me 😁
- ![BocchiRock](https://i0.wp.com/i0.hdslb.com/bfs/garb/0c30f2caed52ee393f14358dc42eaacbdddc5aec.png)
- > 你好我是鼠子, 一只轻音厨~  
- > *业余时间写写代码*，~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~  
- > 欢迎访问我的Blog: [https://blog.miomoe.cn/](https://blog.miomoe.cn/)
+![BocchiRock](https://i0.wp.com/i0.hdslb.com/bfs/garb/0c30f2caed52ee393f14358dc42eaacbdddc5aec.png)
 
- [![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-blue)](https://space.bilibili.com/435502585)
+> 你好我是鼠子，一只轻音厨~  
+> *业余时间写写代码*，~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~  
+> 欢迎访问我的Blog: [鼠窝](https://blog.miomoe.cn/)
+
+[![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-00A1D6?logo=bilibili)](https://space.bilibili.com/435502585) 
+[![GitHub](https://img.shields.io/badge/GitHub-ShuShuicu-181717?logo=github)](https://github.com/ShuShuicu)
 
 ---
 
-## 技术栈 🧑‍💻
-### 语言 🪧
- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
- ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
- ![Vite](https://img.shields.io/badge/-Vite-333333?style=flat&logo=vite)
- ![Nuxt](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
- ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
- ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
+## 🛠 技术栈
 
-### IDE 💻
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg)
- ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg)
- ![WebStorm](https://img.shields.io/badge/WebStorm-blue)
- ![PhpStorm](https://img.shields.io/badge/PhpStorm-darkorchid)
- ![HBuilder X](https://img.shields.io/badge/HBuilder%20X-008000.svg)
+### 🔧 编程语言
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 
- ### 组件库 ❤️‍🔥
- ![MDUI](https://img.shields.io/badge/MDUI-HTML-e34f26)
- ![Parsedown](https://img.shields.io/badge/Parsedown-PHP-darkorchid)
- ![Pywebview](https://img.shields.io/badge/Pywebview-Python-3670A0)
- ![Vuetify](https://img.shields.io/badge/Vuetify-Vue-blue)
- ![Antd](https://img.shields.io/badge/Ant%20Design-Vue-blue)
- ![Arco](https://img.shields.io/badge/Arco%20Design-Vue-blue)
- 
+### 🎨 前端框架
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxt&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+
+### 🖥️ 开发工具
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=webstorm&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?logo=phpstorm&logoColor=white)
+
+### 🧩 组件库
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white)
+![Arco Design](https://img.shields.io/badge/Arco%20Design-165DFF?logo=arcodesign&logoColor=white)
+
 ---
 
-## 今年汇总 ✨
+## 📊 GitHub 数据
 
-<img align="" height="137px" src="http://github-readme-stats.vercel.app/api?username=ShuShuicu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="http://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&locale=cn&theme=graywhite" />
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&show_icons=true&theme=radical&locale=cn" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&layout=compact&theme=radical&locale=cn&langs_count=8" />
+</div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ShuShuicu&row=1)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ShuShuicu&theme=radical&row=1&margin-w=15)
 
-![Contribution Graph](https://github-readme-activity-graph-qpqpgkqdk-edison1105.vercel.app/graph?username=ShuShuicu&theme=nord&color=41b883&point=41b883&hide_border=true&line=959598&title_color=41b883&icon_color=41b883&text_color=959598&bg_color=9ca3af00&locale=cn)
+[![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ShuShuicu&theme=github-compact&hide_border=true)](https://github.com/ShuShuicu)
