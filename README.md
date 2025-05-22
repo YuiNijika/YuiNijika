@@ -39,7 +39,7 @@
 ## 📊 GitHub 数据
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&show_icons=true&theme=radical&range=all_time&locale=cn" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&show_icons=true&theme=radical&locale=cn" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&layout=compact&theme=radical&langs_count=8&locale=cn" />
 </div>
 
