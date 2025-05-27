@@ -5,7 +5,7 @@
 
 > 你好我是鼠子，一只轻音厨~  
 > *业余时间写写代码*，~~DeepSeek/ChatGPT选手，啥都会点就是不精通~~  
-> 欢迎访问我的Blog: [鼠窝](https://blog.miomoe.cn/)
+> 欢迎访问我的Blog: [https://blog.miomoe.cn/)](https://blog.miomoe.cn/)
 
 [![Bilibili](https://img.shields.io/badge/Bilibili-@Tomori%E3%82%9E-00A1D6?logo=bilibili)](https://space.bilibili.com/435502585) 
 [![GitHub](https://img.shields.io/badge/GitHub-ShuShuicu-181717?logo=github)](https://github.com/ShuShuicu)
