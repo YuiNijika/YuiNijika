@@ -6,7 +6,7 @@
 
 [![Blog](https://img.shields.io/badge/个人博客-鼠の窝-FF5722?style=for-the-badge&logo=blogger)](https://blog.miomoe.cn/)
 [![Bilibili](https://img.shields.io/badge/B站-@Tomori%E3%82%9E-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/435502585)
-[![GitHub](https://img.shields.io/badge/GitHub-更多项目-181717?style=for-the-badge&logo=github)](https://github.com/ShuShuicu)
+[![GitHub](https://img.shields.io/badge/GitHub-更多项目-181717?style=for-the-badge&logo=github)](https://github.com/ShuShuicu?tab=repositories)
 
 ---
 
