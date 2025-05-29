@@ -1,6 +1,6 @@
 # 🎸 Hello, World! 🏠
 
-<img align="right" src="https://i0.wp.com/i0.hdslb.com/bfs/garb/0c30f2caed52ee393f14358dc42eaacbdddc5aec.png" width="120" alt="AveMujica">
+<img align="right" src="https://i0.wp.com/i0.hdslb.com/bfs/garb/0c30f2caed52ee393f14358dc42eaacbdddc5aec.png" width="150" alt="AveMujica">
 
 嗨！我是鼠子，一个啥都会点但不精通的开发者 ✨
 
