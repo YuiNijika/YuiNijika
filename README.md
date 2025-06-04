@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i0.wp.com/i0.hdslb.com/bfs/garb/0c30f2caed52ee393f14358dc42eaacbdddc5aec.png" width="150" alt="AveMujica">
 
-嗨！我是鼠子，一个啥都会点但不精通的开发者 ✨
+嗨！我是鼠子，一个啥都会点但不精通的开发者~~纯纯AI选手~~ ✨
 
 [![Blog](https://img.shields.io/badge/个人博客-鼠の窝-FF5722?style=for-the-badge&logo=blogger)](https://blog.miomoe.cn/)
 [![Bilibili](https://img.shields.io/badge/B站-@Tomori%E3%82%9E-00A1D6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/435502585)
