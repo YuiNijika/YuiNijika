@@ -28,22 +28,6 @@
 
 ---
 
-## 🚀 我的创意工坊
-
-### 📗 Vue
-- [KonFans](https://github.com/ShuShuicu/KonFans) - 为轻音同好打造的粉丝站点
-- [VueFramework](https://github.com/ShuShuicu/VueFramework) - 简单的Vue开发脚手架
-
-### 🖥️ PHP
-- [Anon](https://github.com/ShuShuicu/Anon) - 简陋的的开发脚手架
-- [DeepReve](https://github.com/ShuShuicu/DeepReve) - 轻量级文件分享解决方案
-
-### 🎨 Typecho
-- [TTDF](https://github.com/ShuShuicu/TTDF) - Typecho开发框架
-- [Uika主题](https://github.com/ShuShuicu/Typecho-Uika-Theme) - 一款不错的主题
-
----
-
 ## 📊 今年汇总
 
 <div align="center">
