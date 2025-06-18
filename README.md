@@ -20,6 +20,7 @@
 ### 🎨 前端艺术
 ![Vuetify](https://img.shields.io/badge/Vuetify-MD设计-1867C0?logo=vuetify&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-企业级UI-0170FE?logo=antdesign&logoColor=white)
+![Daisy UI](https://img.shields.io/badge/DaisyUI-TailwindCSS-1867C0?logo=daisyui&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-极速构建-646CFF?logo=vite&logoColor=white)
 
 ### ⚙️ 开发环境
