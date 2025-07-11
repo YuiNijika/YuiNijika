@@ -1,8 +1,8 @@
 # 📊 今年汇总
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&layout=compact&theme=radical&langs_count=8&locale=cn&1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShuShuicu&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues" style="height: 165px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuShuicu&layout=compact&theme=radical&langs_count=8&locale=cn&1" style="height: 165px;" />
 </div>
 
 <div align="center">
