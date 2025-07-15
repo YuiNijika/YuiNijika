@@ -1,7 +1,7 @@
 # 📊 今年汇总
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues" style="height: 165px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues&1" style="height: 165px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuiNijika&layout=compact&theme=radical&langs_count=8&locale=cn" style="height: 165px;" />
 </div>
 
