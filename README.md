@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Nuxt-00c16a?style=for-the-badge&logo=nuxt&logoColor=white" height="40">
   </div>
     <h2>🏆 成就墙</h2>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuiNijika&layout=compact&theme=radical&langs_count=8&locale=cn&1" style="height: 165px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues" style="height: 165px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuiNijika&layout=compact&theme=radical&langs_count=8&locale=cn" style="height: 165px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=radical&locale=cn&hide_title=true&hide=issues&1" style="height: 165px;" />
     <img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" alt="成就奖杯" />
 </div>
