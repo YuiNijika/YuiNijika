@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态打字效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=550&lines=Hello+World!;Full+Stack+Developer;PHPer;Vue+%2B+Nuxt+Enthusiast" alt="技术栈标语">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=550&lines=Hello+World!;PHP+Vue+Nuxt+Enthusiast" alt="技术栈标语">
 
   <!-- 技术栈徽章 -->
   <div style="margin: 20px 0;">
