@@ -25,7 +25,7 @@
   </div>
   
   <!-- 连续提交日历 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuiNijika&theme=github-compact&hide_border=true" width="100%">
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuiNijika&theme=github-compact&hide_border=true" width="100%"> -->
   
   <!-- GitHub奖杯 -->
   <h3>🏆 GitHub成就</h3>
