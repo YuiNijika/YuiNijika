@@ -8,7 +8,6 @@
     <div>
       <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" height="30">
       <img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" height="30">
-      <img src="https://img.shields.io/badge/Nuxt-00c16a?style=for-the-badge&logo=nuxt&logoColor=white" height="30">
     </div>
   </div>
   
