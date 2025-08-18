@@ -4,27 +4,49 @@
 </div>
 
   ```php
-  <?php
-  class AboutMe
-  {
-      public string $name = "YuiNijika";
-      public array $skills = ["PHP", "Vue", "Nuxt"];
-      public string $motto = "把一切交付于梦境和优美的浪潮";
+<?php
+declare(strict_types=1);
 
-      public function getPassion(): string
-      {
-          return "Building web applications with modern PHP frameworks";
-      }
+final class AboutMe
+{
+    private const DEFAULT_NAME = 'YuiNijika';
+    private const DEFAULT_MOTTO = '把一切交付于梦境和优美的浪潮';
+    private const DEFAULT_PASSION = 'Building web applications with modern frameworks';
+    private const DEFAULT_SKILLS = ['PHP', 'Vue', 'Nuxt'];
 
-      public function sayHello(): string
-      {
-          return "Hello! I'm {$this->name}, " . $this->getPassion();
-      }
-  }
+    public function __construct(
+        private string $name = self::DEFAULT_NAME,
+        private string $motto = self::DEFAULT_MOTTO,
+        private string $passion = self::DEFAULT_PASSION,
+        private array $skills = self::DEFAULT_SKILLS
+    ) {}
 
-  $me = new AboutMe();
-  echo $me->sayHello();
-?>
+    public function introduce(): string
+    {
+        return sprintf(
+            "Hello! I'm %s. %s My skills include: %s. %s",
+            $this->name,
+            $this->passion,
+            $this->formatSkills(),
+            $this->motto
+        );
+    }
+
+    private function formatSkills(): string
+    {
+        return implode(', ', array_map(
+            fn(string $skill): string => ucfirst(strtolower($skill)),
+            $this->skills
+        ));
+    }
+
+    public static function createDefault(): self
+    {
+        return new self();
+    }
+}
+
+echo AboutMe::createDefault()->introduce();
 ```
 
 <div align="center">
