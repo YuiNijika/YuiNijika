@@ -1,8 +1,34 @@
 <div align="center">
   <!-- 动态打字效果 -->
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=550&lines=Hello+World!;PHP+Vue+Nuxt+Enthusiast" alt="技术栈标语">
+</div>
 
-  <!-- 技术栈徽章 -->
+  ```php
+  <?php
+  class AboutMe
+  {
+      public string $name = "YuiNijika";
+      public array $skills = ["PHP", "Vue", "Nuxt"];
+      public string $motto = "把一切交付于梦境和优美的浪潮";
+
+      public function getPassion(): string
+      {
+          return "Building web applications with modern PHP frameworks";
+      }
+
+      public function sayHello(): string
+      {
+          return "Hello! I'm {$this->name}, " . $this->getPassion();
+      }
+  }
+
+  $me = new AboutMe();
+  echo $me->sayHello();
+?>
+```
+
+<div align="center">
+
   <div style="margin: 20px 0;">
     <h3>🛠 技术栈</h3>
     <div>
@@ -11,7 +37,6 @@
     </div>
   </div>
   
-  <!-- GitHub统计卡片 -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-yujincheng08.vercel.app/api/top-langs/?theme=onedark&username=YuiNijika&layout=compact&hide=Jupyter%20Notebook%2CMATLAB&role=OWNER%2CORGANIZATION_MEMBER%2CCOLLABORATOR&langs_count=12">
@@ -23,10 +48,8 @@
     </picture>
   </div>
   
-  <!-- 连续提交日历 -->
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YuiNijika&theme=github-compact&hide_border=true" width="100%"> -->
   
-  <!-- GitHub奖杯 -->
   <h3>🏆 GitHub成就</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" alt="成就奖杯" width="100%">
 </div>
