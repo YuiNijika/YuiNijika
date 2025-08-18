@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=41B883&center=true&vCenter=true&width=550&lines=Hello+World!;PHP+Vue+Nuxt+Enthusiast" alt="技术栈标语">
 </div>
 
-  ```php
+<!-- ```php
 <?php
 declare(strict_types=1);
 
@@ -47,7 +47,7 @@ final class AboutMe
 }
 
 echo AboutMe::createDefault()->introduce();
-```
+``` -->
 
 <div align="center">
 
