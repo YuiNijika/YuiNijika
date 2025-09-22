@@ -11,9 +11,9 @@
 <div>
     <img src="https://img.shields.io/badge/php-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> -->
     <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+    <!-- <img src="https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"> -->
 </div>
 
 ### GitHub Achievements
