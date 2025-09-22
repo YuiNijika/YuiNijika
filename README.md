@@ -6,7 +6,7 @@
 
 > 把一切交付于梦境和优美的浪潮
 
-### Technology Stack and Currently Studying
+### Learning technology stack
 
 <div>
     <img src="https://img.shields.io/badge/php-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
