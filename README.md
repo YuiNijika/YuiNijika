@@ -9,10 +9,17 @@
 ### 😼 Technology Stack
 
 <div>
-    <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/Vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    <img src="https://img.shields.io/badge/php-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
+    <img src="https://img.shields.io/badge/vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white">
 </div>
 
 #### 🐸 Currently Studying
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<div>
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+</div>
+
+### 🎵 Favorite Music
+
+冀西南林路行
