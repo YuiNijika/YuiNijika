@@ -6,13 +6,11 @@
 
 ### 技术栈
 
-<div>
-    <img src="https://img.shields.io/badge/php-8A2BE2?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/vue-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white">
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
+  <img src="https://www.php.net/favicon.ico" width="40" height="40" alt="PHP">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40" alt="Vue">
+  <img src="https://nuxt.com/icon.png" width="40" height="40" alt="Nuxt">
 </div>
-
-#### 正在学习
-JavaScript · TypeScript · Python · C++
 
 ### GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" width="100%">
