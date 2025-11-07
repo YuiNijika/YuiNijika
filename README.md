@@ -2,7 +2,7 @@
 
 ### Hello
 
-🇨🇳 鼠子(YuiNijika) Web Developer
+🇨🇳 鼠子(YuiNijika) Beginner Web Developer
 
 ### 技术栈
 
