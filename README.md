@@ -4,6 +4,8 @@
 
 🇨🇳 鼠子(YuiNijika) Beginner Web Developer
 
+I like playing CS2 and my favorite band is Omnipotent Youth Society.
+
 ### 技术栈
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
