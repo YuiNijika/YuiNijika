@@ -12,6 +12,7 @@ I like playing CS2 and my favorite band is Omnipotent Youth Society.
   <img src="https://www.php.net/favicon.ico" width="40" height="40" alt="PHP">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40" alt="Vue">
   <img src="https://nuxt.com/icon.png" width="40" height="40" alt="Nuxt">
+  <!-- <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png?raw=true" width="40" height="40" alt="JavaScript"> -->
 </div>
 
 ### GitHub Achievements
