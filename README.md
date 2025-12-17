@@ -4,8 +4,6 @@
 
 🇨🇳 鼠子(YuiNijika) Beginner Web Developer
 
-I like playing CS2 and my favorite band is Omnipotent Youth Society.
-
 ### 技术栈
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
@@ -15,5 +13,5 @@ I like playing CS2 and my favorite band is Omnipotent Youth Society.
   <!-- <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png?raw=true" width="40" height="40" alt="JavaScript"> -->
 </div>
 
-### GitHub Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" width="100%">
+<!-- ### GitHub Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" width="100%"> -->
