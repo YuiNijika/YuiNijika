@@ -2,7 +2,9 @@
 
 ### Hello
 
-🇨🇳 鼠子(YuiNijika) Beginner Web Developer
+🇨🇳 鼠子(YuiNijika), a web developer who likes using PHP with Vue.js.
+
+Interested in GTA ViceCity game development and eager to learn C++.
 
 ### 技术栈
 
