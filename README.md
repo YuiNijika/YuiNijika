@@ -4,7 +4,7 @@
 
 🇨🇳 鼠子(YuiNijika), a web developer who likes using PHP with Vue.js.
 
-Interested in GTA ViceCity game development and eager to learn C++.
+Interested in GTA ViceCity game development and eager to learn C++ and Python.
 
 ### 技术栈
 
