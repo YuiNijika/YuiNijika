@@ -6,7 +6,7 @@
 
 Interested in GTA ViceCity game development and eager to learn C++ and Python.
 
-### 技术栈
+### Technology Stack
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
   <img src="https://www.php.net/favicon.ico" width="40" height="40" alt="PHP">
