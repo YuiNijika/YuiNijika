@@ -2,15 +2,15 @@
 
 ### Hello
 
-🇨🇳 鼠子(YuiNijika), a web developer who likes using PHP with Vue.js.
+🇨🇳 YuiNijika (鼠子) | Web Developer
 
-Believe that code can change the world!
+Focused on PHP & Vue.js development, with a firm belief that code has the power to change the world.
 
-Interested in GTA ViceCity game development and eager to learn C++ and Python.
+Passionate about GTA Vice City game development, and currently diving into C++ & Python learning.
 
-> Currently developing a PHP-based API & CMS development framework.
+> Ongoing Project: Building a PHP-based API & CMS development framework
 > 
-> If you're interested, please give it a star~ Repository: https://github.com/YuiNijika/Anon
+> Star it if you're interested! Repository: https://github.com/YuiNijika/Anon
 
 ### Technology Stack
 
