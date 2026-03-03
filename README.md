@@ -6,7 +6,7 @@
 
 Focused on PHP & Vue.js development, with a firm belief that code has the power to change the world.
 
-Passionate about GTA Vice City game development, and currently diving into C++ & Python learning.
+<!-- Passionate about GTA Vice City game development, and currently diving into C++ & Python learning. -->
 
 > Ongoing Project: Building a PHP-based API & CMS development framework
 > 
