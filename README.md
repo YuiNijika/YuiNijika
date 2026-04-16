@@ -12,19 +12,19 @@ Focused on PHP & Vue.js development, with a firm belief that code has the power 
 > 
 > Star it if you're interested! Repository: https://github.com/YuiNijika/Anon
 
-### Technology Stack
+ <!-- ### Technology Stack
 
 <div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
   <img src="https://www.php.net/favicon.ico" width="40" height="40" alt="PHP">
-  <!-- <img src="https://yuinijika.github.io/Anon/assets/favicon.jpg" width="40" height="40" alt="Anon"> -->
+  <img src="https://yuinijika.github.io/Anon/assets/favicon.jpg" width="40" height="40" alt="Anon">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" width="40" height="40" alt="Vue">
   <img src="https://nuxt.com/icon.png" width="40" height="40" alt="Nuxt">
   <img src="https://zh-hans.react.dev/favicon-32x32.png" width="40" height="40" alt="React">
-  <!-- <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png?raw=true" width="40" height="40" alt="JavaScript"> -->
+  <img src="https://github.com/voodootikigod/logo.js/blob/master/js.png?raw=true" width="40" height="40" alt="JavaScript">
   
-  <!-- ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuinijika&layout=compact&theme=dark&hide_border=true&langs_count=8) -->
+  ![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuinijika&layout=compact&theme=dark&hide_border=true&langs_count=8)
 
 </div>
 
-<!-- ### GitHub Achievements
+ ### GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=YuiNijika&theme=onedark&row=1&margin-w=15&column=7&no-bg=true&no-frame=true" width="100%"> -->
