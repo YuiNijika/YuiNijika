@@ -1,8 +1,6 @@
 # Hello
 🇨🇳 YuiNijika (鼠子) | Web Developer
 
----
-
 喜欢 PHP & Vue.js 开发，坚信代码改变世界。
 
 > 开发中：PHP API & CMS 开发框架 Anon  
