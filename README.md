@@ -1,18 +1,6 @@
 # Hello
 🇨🇳 YuiNijika (鼠子) | Web Developer
 
-喜欢 PHP & Vue.js 开发，坚信代码改变世界。
-
-> 开发中：PHP API & CMS 开发框架 Anon  
-> 感兴趣欢迎 Star 仓库：https://github.com/YuiNijika/Anon
-
----
-
-Focused on PHP & Vue.js development, firmly believing that code has the power to change the world.
-
-> Ongoing Project: PHP-based API & CMS framework — Anon  
-> Star it if you like it! Repo: https://github.com/YuiNijika/Anon
-
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=tokyonight" />
 
 ### Hello
