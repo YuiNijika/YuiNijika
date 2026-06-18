@@ -1,7 +1,10 @@
 # Hello
-🇨🇳 YuiNijika (鼠子) | Web Developer
+## 🇨🇳 YuiNijika (鼠子) | Web Developer
 
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuinijika&layout=compact&theme=dark&hide_border=true&langs_count=12)
+<div style="width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 0.75rem; padding: 0.75rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuinijika&layout=compact&theme=dark&hide_border=true&langs_count=12" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=tokyonight" />
+</div>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=tokyonight" />
 
