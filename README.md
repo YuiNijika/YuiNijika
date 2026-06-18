@@ -1,6 +1,8 @@
 # Hello
 🇨🇳 YuiNijika (鼠子) | Web Developer
 
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuinijika&layout=compact&theme=dark&hide_border=true&langs_count=12)
+
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=YuiNijika&show_icons=true&theme=tokyonight" />
 
 ### Hello
