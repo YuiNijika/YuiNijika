@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://space.bilibili.com/435502585"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-玩小鼠-blue?style=flat-square&logo=bilibili"></a>
-  <a href="tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <!-- 
