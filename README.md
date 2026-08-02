@@ -10,8 +10,9 @@
 - GTA牢玩家、**[GTAMODX](https://gtamodx.com/)** 股东易主 & 产品经理
 - GTA三部曲入门开发者，正在编写 **[XBase](https://github.com/GTANext/XBase) & [XMenu](https://github.com/YuiNijika/XMenu) & [G2M](https://github.com/GTANext/G2M)**
 - 非常喜欢 **Kon**，名字取自 **平泽唯(Hirasawa Yui) & 伊地知虹夏 (Ijichi Nijika)**
-- 研究方向：**Web开发者**，正在编写 **[Anon Framework Next](https://github.com/YuiNijika/Anon)**
-- 喜欢的乐队：**万能青年旅店**、GreenDay、Beyond
+- 研究方向：**Web开发者**，正在编写 **[MusicStorm](https://github.com/YuiNijika/MusicStorm) & [Anon Framework Next](https://github.com/YuiNijika/Anon)**
+- 编码习惯：**面向对象**、可读性优先级 > 代码简短。详情可参见 **[yuinijika-coding-style](https://github.com/YuiNijika/skill/blob/main/yuinijika/coding-style.md)**
+- 喜欢的乐队：**万能青年旅店**、梅卡德尔、GreenDay、Beyond
 
 ### 技术栈
 
