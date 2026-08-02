@@ -2,6 +2,11 @@
 
 ### 关于我
 
+<p align="center">
+  <a href="https://space.bilibili.com/435502585"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-玩小鼠-blue?style=flat-square&logo=bilibili"></a>
+  <a href="mailto:tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 - GTA牢玩家、**[GTAMODX](https://gtamodx.com/)** 股东易主 & 产品经理
 - GTA三部曲入门开发者，正在编写 **[XBase](https://github.com/GTANext/XBase) & [XMenu](https://github.com/YuiNijika/XMenu) & [G2M](https://github.com/GTANext/G2M)**
 - 非常喜欢 **Kon**，名字取自 **平泽唯(Hirasawa Yui) & 伊地知虹夏 (Ijichi Nijika)**
@@ -13,11 +18,6 @@
 - 编程语言：**PHP**、TypeScript / JavaScript、Python
 - 技术框架：**Anon、Tauri、NodeJS、React / Next、Vue / Nuxt**
 - IDE&Agent：**Cursor**、OpenCode、WebStorm、Visual Studio Code
-
-<p align="center">
-  <a href="https://space.bilibili.com/435502585"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-玩小鼠-blue?style=flat-square&logo=bilibili"></a>
-  <a href="mailto:tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
-</p>
 
 <!-- 
 
