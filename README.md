@@ -19,6 +19,8 @@
 - 技术框架：**Anon、Tauri、NodeJS、React / Next、Vue / Nuxt**
 - IDE&Agent：**Cursor**、OpenCode、WebStorm、Visual Studio Code
 
+![](/profile-3d-contrib/profile-night-rainbow.svg)
+
 <!-- 
 
 # Hello
