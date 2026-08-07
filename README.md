@@ -18,7 +18,7 @@
 
 - 编程语言：**PHP**、TypeScript / JavaScript、Python
 - 技术框架：**Anon、Tauri、NodeJS、React / Next、Vue / Nuxt**
-- IDE&Agent：**Cursor**、OpenCode、WebStorm、Visual Studio Code
+- IDE&Agent：**Cursor**、OpenCode、WebStorm、Android Studio、Visual Studio Code
 
 ![](/profile-3d-contrib/profile-night-rainbow.svg)
 
