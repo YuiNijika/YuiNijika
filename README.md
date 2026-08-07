@@ -21,7 +21,7 @@
 
 | 分类 | 内容 |
 |------|------|
-| 主力语言 | **PHP**、TypeScript / JavaScript、Python |
+| 主力语言 | **PHP**、TypeScript、JavaScript |
 | 框架/工具 | **Anon**、Tauri、Node.js、React / Next、Vue / Nuxt |
 | 编辑环境 | **Cursor**、OpenCode、WebStorm、Android Studio、VS Code |
 
