@@ -3,10 +3,6 @@
   <a href="mailto:tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-# YuiNijika
-
-你好我是鼠子，写代码、玩 CS2、改 GTA、听万青。
-
 ## 关于我
 
 - GTA 牢玩家，**[GTAMODX](https://gtamodx.com/)** 股东易主 & 产品经理
