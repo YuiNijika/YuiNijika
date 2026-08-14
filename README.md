@@ -43,7 +43,7 @@
       </a>
       <a href="https://#gh-dark-mode-only">
         <img
-          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuiNijika&hide_border=true&layout=compact&langs_count=12&bg_color=00000000&theme=dark"
+          src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=YuiNijika&hide=html&hide_border=true&layout=compact&langs_count=12&bg_color=00000000&theme=dark"
           height="200" />
       </a>
     </td>
