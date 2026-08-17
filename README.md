@@ -10,7 +10,6 @@
 - 名字来源：**平泽唯 (Hirasawa Yui)** + **伊地知虹夏 (Ijichi Nijika)**，K-ON! 与 Bocchi 双厨狂喜
 - 日常方向：**Web 全干**，在写 **[MusicStorm](https://github.com/YuiNijika/MusicStorm)** 和 **[Anon Framework Next](https://github.com/YuiNijika/Anon)**
 - 编码信条：**可读性 > 简短**，面向对象优先。详见 [yuinijika-coding-style](https://github.com/YuiNijika/skill/blob/main/yuinijika/coding-style.md)
-- 耳机里常放：**万能青年旅店**、梅卡德尔、GreenDay、Beyond
 - 大模型顺位：**Grok**、DeepSeek、ChatGPT、Gemini
 
 ## 技术栈
