@@ -18,7 +18,7 @@
 |------|------|
 | 主力语言 | **PHP**、TypeScript、JavaScript |
 | 框架/工具 | **Anon**、Tauri、Node.js、React / Next、Vue / Nuxt |
-| 编辑环境 | **Cursor**、OpenCode、WebStorm、Android Studio、VS Code |
+| 编辑环境 | **Cursor**、VS Code、OpenCode、WebStorm、Android Studio |
 
 <table width="100%" align="center">
   <tr>
