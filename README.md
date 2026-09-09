@@ -5,10 +5,8 @@
 
 ## 关于我
 
-- GTA 牢玩家，**[GTAMODX](https://gtamodx.com/)** 股东易主 & 产品经理
-- GTA 三部曲入门开发者，正在搓 **[XBase](https://github.com/GTANext/XBase)**、**[XMenu](https://github.com/YuiNijika/XMenu)**、**[G2M](https://github.com/GTANext/G2M)**
 - 名字来源：**平泽唯 (Hirasawa Yui)** + **伊地知虹夏 (Ijichi Nijika)**，K-ON! 与 Bocchi 双厨狂喜
-- 日常方向：**Web 全干**，在写 **[MusicStorm](https://github.com/YuiNijika/MusicStorm)** 和 **[Anon Framework Next](https://github.com/YuiNijika/Anon)**
+- 日常方向：**Web 全干**，在写 **[MusicStorm](https://github.com/YuiNijika/MusicStorm)**
 - 编码信条：**可读性 > 简短**，面向对象优先。详见 [yuinijika-coding-style](https://github.com/YuiNijika/skill/blob/main/yuinijika/coding-style.md)
 - 大模型顺位：**Grok**、GLM、DeepSeek、ChatGPT、Gemini
 
@@ -16,9 +14,9 @@
 
 | 分类 | 内容 |
 |------|------|
-| 主力语言 | **PHP**、TypeScript、JavaScript |
-| 框架/工具 | **Anon**、Tauri、Node.js、React / Next、Vue / Nuxt |
-| 编辑环境 | **Cursor**、VS Code、OpenCode、WebStorm、Android Studio |
+| 主力语言 | TypeScript、JavaScript |
+| 框架/工具 | Tauri、Node.js、React、Vue |
+| 编辑环境 | Cursor、VS Code、OpenCode |
 
 <table width="100%" align="center">
   <tr>
