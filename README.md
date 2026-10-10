@@ -3,6 +3,7 @@
   <a href="mailto:tomori@miomoe.cn"><img alt="Email" src="https://img.shields.io/badge/Email-Tomori@miomoe.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<!--
 ## 关于我
 
 - 名字来源：**平泽唯 (Hirasawa Yui)** + **伊地知虹夏 (Ijichi Nijika)**，K-ON! 与 Bocchi 双厨狂喜
@@ -17,6 +18,7 @@
 | 主力语言 | TypeScript、JavaScript |
 | 框架/工具 | Tauri、Node.js、React、Vue |
 | 编辑环境 | Cursor、VS Code、OpenCode |
+-->
 
 <table width="100%" align="center">
   <tr>
